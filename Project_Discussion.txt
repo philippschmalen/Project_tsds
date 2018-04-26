@@ -1,0 +1,30 @@
+NOTES about project
+Use Congress API
+
+
+Methods used:
+1) networks 
+2) spatial data
+3) naive Bayes
+
+Discussion
+- date of being freinds on Twitter
+- what would have been done ideally
+- polarization
+- using same hashtags 
+- agreement vote, number of connections: statistics on network 
+- facebook data: ideally analyze tags, number of likes (classify as friendly or attack)
+- Polarization, ML: Predict party? Those who are not clear-cut get an ambiguous score
+- neural network: voting behavior --> party; How hard is it to predict this? Polarization 
+- is there any development over time?
+
+Possible research questions
+- how did the network develop over time?
+- what are the groupings/networks in the congress and how it evolved over time? 
+- voting behavior are politicians voting more commonly in their district? 
+
+
+To do
+1) how to link the data
+2) twitter data: What's the earliest point in time?
+3) establish link btw. twitter and congress
