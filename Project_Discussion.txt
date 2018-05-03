@@ -8,7 +8,7 @@ Methods used:
 3) naive Bayes
 
 Discussion
-- date of being freinds on Twitter
+- date of being friends on Twitter
 - what would have been done ideally
 - polarization
 - using same hashtags 
@@ -19,12 +19,11 @@ Discussion
 - is there any development over time?
 
 Possible research questions
+- what are the groupings/networks in the congress? 
+- voting behavior: are politicians voting more commonly for their districts? 
 - how did the network develop over time?
-- what are the groupings/networks in the congress and how it evolved over time? 
-- voting behavior are politicians voting more commonly in their district? 
 
 
 To do
-1) how to link the data
-2) twitter data: What's the earliest point in time?
-3) establish link btw. twitter and congress
+1) Are there Republican/Democrat feature words, word clusters that identify the voting behavior or party from tweets. 
+2) Retweets as sign of support or disagreement. How do retweets/mentions relfect voting behavior?
