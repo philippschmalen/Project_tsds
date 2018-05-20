@@ -1,0 +1,420 @@
+,caucus,name,twitter_id
+0,Freedom Caucus,Scott DesJarlais,DesJarlaisTN04
+1,Freedom Caucus,Jim Jordan,Jim_Jordan
+2,Freedom Caucus,Ted Budd,RepTedBudd
+3,Freedom Caucus,Louie Gohmert,RepLouieGohmert
+4,Freedom Caucus,Mark Sanford,RepSanfordSC
+5,Freedom Caucus,Andy Harris,RepAndyHarrisMD
+6,Freedom Caucus,Gary Palmer,USRepGaryPalmer
+7,Freedom Caucus,Keith Rothfus,KeithRothfus
+8,Freedom Caucus,Ron DeSantis,RepDeSantis
+9,Freedom Caucus,Alex Mooney,RepAlexMooney
+10,Freedom Caucus,Ted Poe,JudgeTedPoe
+11,Freedom Caucus,Ken Buck,RepKenBuck
+12,Freedom Caucus,Andy Biggs,RepAndyBiggsAZ
+13,Freedom Caucus,Trey Gowdy,TGowdySC
+14,Freedom Caucus,Barry Loudermilk,RepLoudermilk
+15,Freedom Caucus,Matt Gaetz,RepMattGaetz
+16,Freedom Caucus,Jody Hice,congressmanhice
+17,Freedom Caucus,Tom McClintock,RepMcClintock
+18,Freedom Caucus,Raúl Labrador,Raul_Labrador
+19,Freedom Caucus,Mo Brooks,RepMoBrooks
+20,Freedom Caucus,Rod Blum,RepRodBlum
+21,Freedom Caucus,Warren Davidson,WarrenDavidson
+22,Freedom Caucus,Steve Pearce,RepStevePearce
+23,Freedom Caucus,Scott Perry,RepScottPerry
+24,Freedom Caucus,Justin Amash,
+25,Freedom Caucus,Kevin McCarthy,GOPLeader
+26,Freedom Caucus,Paul Gosar,RepGosar
+27,Freedom Caucus,Roger Marshall,
+28,Freedom Caucus,Bill Posey,CongBillPosey
+29,Freedom Caucus,Brian Babin,RepBrianBabin
+30,Freedom Caucus,Randy Weber,TXRandy14
+31,Freedom Caucus,Ted Yoho,RepTedYoho
+32,Freedom Caucus,Morgan Griffith,RepMGriffith
+33,Freedom Caucus,David Schweikert,RepDavid
+34,Freedom Caucus,Mark Meadows,RepMarkMeadows
+35,Liberty Caucus,Trey Gowdy,TGowdySC
+36,Liberty Caucus,Tom Graves,RepTomGraves
+37,Liberty Caucus,Justin Amash,
+38,Liberty Caucus,Paul Gosar,RepGosar
+39,Liberty Caucus,Vicky Hartzler,RepHartzler
+40,Liberty Caucus,Bill Posey,CongBillPosey
+41,Liberty Caucus,Thomas Massie,RepThomasMassie
+42,Liberty Caucus,Tim Walberg,RepWalberg
+43,Liberty Caucus,Raúl Labrador,Raul_Labrador
+44,Liberty Caucus,Mark Sanford,RepSanfordSC
+45,Liberty Caucus,Cathy McMorris Rodgers,CathyMcMorris
+46,Liberty Caucus,Rob Woodall,RepRobWoodall
+47,Republican Study Committee,Doug Lamborn,RepDLamborn
+48,Republican Study Committee,Diane Black,RepDianeBlack
+49,Republican Study Committee,Gary Palmer,USRepGaryPalmer
+50,Republican Study Committee,Mark Walker,RepMarkWalker
+51,Republican Study Committee,Keith Rothfus,KeithRothfus
+52,Republican Study Committee,Francis Rooney,RepRooney
+53,Republican Study Committee,Rick Allen,reprickallen
+54,Republican Study Committee,Paul Mitchell,RepPaulMitchell
+55,Republican Study Committee,Alex Mooney,RepAlexMooney
+56,Republican Study Committee,Kevin Yoder,RepKevinYoder
+57,Republican Study Committee,Brad Wenstrup,RepBradWenstrup
+58,Republican Study Committee,Claudia Tenney,RepTenney
+59,Republican Study Committee,Andy Biggs,RepAndyBiggsAZ
+60,Republican Study Committee,Andy Barr,RepAndyBarr
+61,Republican Study Committee,Robert Pittenger,RepPittenger
+62,Republican Study Committee,Tom Graves,RepTomGraves
+63,Republican Study Committee,Dan Newhouse,RepNewhouse
+64,Republican Study Committee,Steve Scalise,SteveScalise
+65,Republican Study Committee,Darrell Issa,DarrellIssa
+66,Republican Study Committee,Tom McClintock,RepMcClintock
+67,Republican Study Committee,Don Bacon,RepDonBacon
+68,Republican Study Committee,Roger Williams,RepRWilliams
+69,Republican Study Committee,Mike Bost,RepBost
+70,Republican Study Committee,Rob Woodall,RepRobWoodall
+71,Republican Study Committee,Randy Hultgren,RepHultgren
+72,Republican Study Committee,Paul Gosar,RepGosar
+73,Republican Study Committee,Marsha Blackburn,MarshaBlackburn
+74,Republican Study Committee,Bill Posey,CongBillPosey
+75,Republican Study Committee,Chuck Fleischmann,RepChuck
+76,Republican Study Committee,Randy Weber,TXRandy14
+77,Republican Study Committee,Ted Yoho,RepTedYoho
+78,Republican Study Committee,Chris Stewart,RepChrisStewart
+79,Republican Study Committee,Doug LaMalfa,RepLaMalfa
+80,Republican Study Committee,Virginia Foxx,VirginiaFoxx
+81,Republican Study Committee,Jim Renacci,RepJimRenacci
+82,Republican Study Committee,John Culberson,CongCulberson
+83,Republican Study Committee,Peter Roskam,PeterRoskam
+84,Republican Study Committee,Michael C. Burgess,MichaelCBurgess
+85,Republican Study Committee,Patrick T. McHenry,PatrickMcHenry
+86,Republican Study Committee,Jim Banks,RepJimBanks
+87,Republican Study Committee,Ralph Norman,RepRalphNorman
+88,Republican Study Committee,Andy Harris,RepAndyHarrisMD
+89,Republican Study Committee,Sean Duffy,RepSeanDuffy
+90,Republican Study Committee,Scott Taylor,RepScottTaylor
+91,Republican Study Committee,Ron DeSantis,RepDeSantis
+92,Republican Study Committee,John Moolenaar,RepMoolenaar
+93,Republican Study Committee,Mike Kelly,MikeKellyPA
+94,Republican Study Committee,Ted Poe,JudgeTedPoe
+95,Republican Study Committee,Kevin Cramer,RepKevinCramer
+96,Republican Study Committee,Kenny Marchant,RepKenMarchant
+97,Republican Study Committee,Liz Cheney,RepLizCheney
+98,Republican Study Committee,John Ratcliffe,RepRatcliffe
+99,Republican Study Committee,Barry Loudermilk,RepLoudermilk
+100,Republican Study Committee,Glenn Grothman,RepGrothman
+101,Republican Study Committee,Blaine Luetkemeyer,RepBlainePress
+102,Republican Study Committee,Jackie Walorski,RepWalorski
+103,Republican Study Committee,Jody Hice,congressmanhice
+104,Republican Study Committee,Bruce Poliquin,RepPoliquin
+105,Republican Study Committee,Michael McCaul,RepMcCaul
+106,Republican Study Committee,Rod Blum,RepRodBlum
+107,Republican Study Committee,Warren Davidson,WarrenDavidson
+108,Republican Study Committee,Jeff Fortenberry,JeffFortenberry
+109,Republican Study Committee,George Holding,RepHolding
+110,Republican Study Committee,Vicky Hartzler,RepHartzler
+111,Republican Study Committee,Jack Bergman,RepJackBergman
+112,Republican Study Committee,Mike Gallagher,RepGallagher
+113,Republican Study Committee,Pete Olson,RepPeteOlson
+114,Republican Study Committee,Scott Tipton,RepTipton
+115,Republican Study Committee,Buddy Carter,RepBuddyCarter
+116,Republican Study Committee,Bruce Westerman,RepWesterman
+117,Republican Study Committee,Mimi Walters,RepMimiWalters
+118,Republican Study Committee,Jim Jordan,Jim_Jordan
+119,Republican Study Committee,Mia Love,repmialove
+120,Republican Study Committee,Austin Scott,AustinScottGA08
+121,Republican Study Committee,Mark Sanford,RepSanfordSC
+122,Republican Study Committee,French Hill,RepFrenchHill
+123,Republican Study Committee,Lynn Jenkins,RepLynnJenkins
+124,Republican Study Committee,Gregg Harper,GreggHarper
+125,Republican Study Committee,Erik Paulsen,RepErikPaulsen
+126,Republican Study Committee,Tom Cole,TomColeOK04
+127,Republican Study Committee,Kevin Brady,RepKevinBrady
+128,Republican Study Committee,Phil Roe,DrPhilRoe
+129,Republican Study Committee,Bradley Byrne,RepByrne
+130,Republican Study Committee,Trent Kelly,reptrentkelly
+131,Republican Study Committee,Lloyd Smucker,RepSmucker
+132,Republican Study Committee,Jodey Arrington,RepArrington
+133,Republican Study Committee,John Carter,JudgeCarter
+134,Republican Study Committee,Sam Johnson,SamsPressShop
+135,Republican Study Committee,Steve Stivers,RepSteveStivers
+136,Republican Study Committee,Tom Rooney,TomRooney
+137,Republican Study Committee,Kevin McCarthy,GOPLeader
+138,Republican Study Committee,Todd Rokita,ToddRokita
+139,Republican Study Committee,Brian Babin,RepBrianBabin
+140,Republican Study Committee,Cathy McMorris Rodgers,CathyMcMorris
+141,Republican Study Committee,Brett Guthrie,RepGuthrie
+142,Republican Study Committee,Mike Bishop,RepMikeBishop
+143,Republican Study Committee,Tom Emmer,RepTomEmmer
+144,Republican Study Committee,Scott DesJarlais,DesJarlaisTN04
+145,Republican Study Committee,Karen Handel,RepKHandel
+146,Republican Study Committee,Gus Bilirakis,RepGusBilirakis
+147,Republican Study Committee,Larry Bucshon,RepLarryBucshon
+148,Republican Study Committee,Ted Budd,RepTedBudd
+149,Republican Study Committee,Tom Rice,RepTomRice
+150,Republican Study Committee,Susan Brooks,SusanWBrooks
+151,Republican Study Committee,Kay Granger,RepKayGranger
+152,Republican Study Committee,Mike Johnson,RepMikeJohnson
+153,Republican Study Committee,Kristi Noem,RepKristiNoem
+154,Republican Study Committee,Neal Dunn,drnealdunnfl2
+155,Republican Study Committee,Rob Bishop,RepRobBishop
+156,Republican Study Committee,Bill Huizenga,RepHuizenga
+157,Republican Study Committee,Ron Estes,RepRonEstes
+158,Republican Study Committee,Mike D. Rogers,RepMikeRogersAL
+159,Republican Study Committee,Chris Collins,RepChrisCollins
+160,Republican Study Committee,Ken Buck,RepKenBuck
+161,Republican Study Committee,Trey Gowdy,TGowdySC
+162,Republican Study Committee,David Kustoff,repdavidkustoff
+163,Republican Study Committee,Matt Gaetz,RepMattGaetz
+164,Republican Study Committee,Vern Buchanan,VernBuchanan
+165,Republican Study Committee,Tim Walberg,RepWalberg
+166,Republican Study Committee,Tom Reed,RepTomReed
+167,Republican Study Committee,Markwayne Mullin,RepMullin
+168,Republican Study Committee,Bob Gibbs,RepBobGibbs
+169,Republican Study Committee,Rodney Davis,RodneyDavis
+170,Republican Study Committee,John Shimkus,RepShimkus
+171,Republican Study Committee,Pete Sessions,PeteSessions
+172,Republican Study Committee,David Rouzer,RepDavidRouzer
+173,Republican Study Committee,Duncan D. Hunter,Rep_Hunter
+174,Republican Study Committee,Steve King,SteveKingIA
+175,Republican Study Committee,Roger Marshall,
+176,Republican Study Committee,Joe Wilson,RepJoeWilson
+177,Republican Study Committee,Bill Flores,RepBillFlores
+178,Republican Study Committee,David McKinley,RepMcKinley
+179,Republican Study Committee,Richard Hudson,RepRichHudson
+180,Republican Study Committee,Jeb Hensarling,RepHensarling
+181,Republican Study Committee,Bill Johnson,RepBillJohnson
+182,Republican Study Committee,David Schweikert,RepDavid
+183,Republican Study Committee,Ann Wagner,RepAnnWagner
+184,Republican Study Committee,Garret Graves,RepGarretGraves
+185,Republican Main Street Partnership,Rodney Frelinghuysen,USRepRodney
+186,Republican Main Street Partnership,David Young,RepDavidYoung
+187,Republican Main Street Partnership,Brian Fitzpatrick,repbrianfitz
+188,Republican Main Street Partnership,Mimi Walters,RepMimiWalters
+189,Republican Main Street Partnership,Ken Calvert,KenCalvert
+190,Republican Main Street Partnership,Tom Emmer,RepTomEmmer
+191,Republican Main Street Partnership,Karen Handel,RepKHandel
+192,Republican Main Street Partnership,Larry Bucshon,RepLarryBucshon
+193,Republican Main Street Partnership,Mia Love,repmialove
+194,Republican Main Street Partnership,Adam Kinzinger,RepKinzinger
+195,Republican Main Street Partnership,Tom MacArthur,RepTomMacArthur
+196,Republican Main Street Partnership,Fred Upton,RepFredUpton
+197,Republican Main Street Partnership,Tom Rice,RepTomRice
+198,Republican Main Street Partnership,Susan Brooks,SusanWBrooks
+199,Republican Main Street Partnership,Mike Simpson,CongMikeSimpson
+200,Republican Main Street Partnership,Evan Jenkins,RepEvanJenkins
+201,Republican Main Street Partnership,John Katko,RepJohnKatko
+202,Republican Main Street Partnership,Ileana Ros-Lehtinen,RosLehtinen
+203,Republican Main Street Partnership,Lee Zeldin,RepLeeZeldin
+204,Republican Main Street Partnership,Lynn Jenkins,RepLynnJenkins
+205,Republican Main Street Partnership,Sean Duffy,RepSeanDuffy
+206,Republican Main Street Partnership,Scott Taylor,RepScottTaylor
+207,Republican Main Street Partnership,Cathy McMorris Rodgers,CathyMcMorris
+208,Republican Main Street Partnership,Carlos Curbelo,RepCurbelo
+209,Republican Main Street Partnership,Erik Paulsen,RepErikPaulsen
+210,Republican Main Street Partnership,Leonard Lance,RepLanceNJ7
+211,Republican Main Street Partnership,Bill Huizenga,RepHuizenga
+212,Republican Main Street Partnership,John Moolenaar,RepMoolenaar
+213,Republican Main Street Partnership,Mike Kelly,MikeKellyPA
+214,Republican Main Street Partnership,Kevin Yoder,RepKevinYoder
+215,Republican Main Street Partnership,Chris Collins,RepChrisCollins
+216,Republican Main Street Partnership,Dan Newhouse,RepNewhouse
+217,Republican Main Street Partnership,Ryan Costello,RepRyanCostello
+218,Republican Main Street Partnership,Jaime Herrera Beutler,HerreraBeutler
+219,Republican Main Street Partnership,Will Hurd,hurdonthehill
+220,Republican Main Street Partnership,John Faso,RepJohnFaso
+221,Republican Main Street Partnership,Dave Trott,repdavetrott
+222,Republican Main Street Partnership,David Valadao,RepDavidValadao
+223,Republican Main Street Partnership,Bruce Poliquin,RepPoliquin
+224,Republican Main Street Partnership,Elise Stefanik,RepStefanik
+225,Republican Main Street Partnership,Tom Reed,RepTomReed
+226,Republican Main Street Partnership,Don Bacon,RepDonBacon
+227,Republican Main Street Partnership,Bill Shuster,RepBillShuster
+228,Republican Main Street Partnership,Lloyd Smucker,RepSmucker
+229,Republican Main Street Partnership,Mike Bost,RepBost
+230,Republican Main Street Partnership,Bob Gibbs,RepBobGibbs
+231,Republican Main Street Partnership,Rodney Davis,RodneyDavis
+232,Republican Main Street Partnership,John Curtis,RepJohnCurtis
+233,Republican Main Street Partnership,Steve Knight,SteveKnight25
+234,Republican Main Street Partnership,Steve Stivers,RepSteveStivers
+235,Republican Main Street Partnership,Jeff Fortenberry,JeffFortenberry
+236,Republican Main Street Partnership,Roger Marshall,
+237,Republican Main Street Partnership,John Rutherford,RepRutherfordFL
+238,Republican Main Street Partnership,Mike Coffman,RepMikeCoffman
+239,Republican Main Street Partnership,David McKinley,RepMcKinley
+240,Republican Main Street Partnership,Dave Reichert,DaveReichert
+241,Republican Main Street Partnership,Bill Johnson,RepBillJohnson
+242,Republican Main Street Partnership,Brian Mast,repbrianmast
+243,Republican Main Street Partnership,Greg Walden,RepGregWalden
+244,Republican Main Street Partnership,Paul Cook,RepPaulCook
+245,Republican Main Street Partnership,Mike Gallagher,RepGallagher
+246,Republican Main Street Partnership,Jim Renacci,RepJimRenacci
+247,Republican Main Street Partnership,Martha McSally,RepMcSally
+248,Republican Main Street Partnership,Barbara Comstock,RepComstock
+249,Tuesday Group,Tom MacArthur,RepTomMacArthur
+250,Tuesday Group,Adam Kinzinger,RepKinzinger
+251,Tuesday Group,Fred Upton,RepFredUpton
+252,Tuesday Group,Dave Reichert,DaveReichert
+253,Tuesday Group,Elise Stefanik,RepStefanik
+254,Tuesday Group,Leonard Lance,RepLanceNJ7
+255,Tuesday Group,John Katko,RepJohnKatko
+256,Tuesday Group,Cathy McMorris Rodgers,CathyMcMorris
+257,Blue Collar Caucus,Ann McLane Kuster,RepAnnieKuster
+258,Blue Collar Caucus,Marc Veasey,RepVeasey
+259,Blue Collar Caucus,Mark Pocan,RepMarkPocan
+260,Blue Collar Caucus,Kathy Castor,USRepKCastor
+261,Blue Collar Caucus,Dave Loebsack,DaveLoebsack
+262,Blue Collar Caucus,Alma Adams,RepAdams
+263,Blue Collar Caucus,Alan Lowenthal,RepLowenthal
+264,Blue Collar Caucus,Matt Cartwright,RepCartwright
+265,Blue Collar Caucus,Debbie Dingell,RepDebDingell
+266,Blue Collar Caucus,Carol Shea-Porter,repsheaporter
+267,Blue Collar Caucus,Eric Swalwell,RepSwalwell
+268,Blue Collar Caucus,Bonnie Watson Coleman,RepBonnie
+269,Blue Collar Caucus,Derek Kilmer,RepDerekKilmer
+270,Blue Collar Caucus,Grace Meng,RepGraceMeng
+271,Blue Collar Caucus,Joe Courtney,RepJoeCourtney
+272,Blue Collar Caucus,Paul Tonko,RepPaulTonko
+273,Blue Collar Caucus,Jan Schakowsky,JanSchakowsky
+274,Blue Collar Caucus,Seth Moulton,teammoulton
+275,Blue Collar Caucus,Anthony Brown,RepAnthonyBrown
+276,Blue Collar Caucus,Eleanor Holmes Norton,EleanorNorton
+277,Blue Collar Caucus,Daniel Lipinski,RepLipinski
+278,Blue Collar Caucus,Julia Brownley,JuliaBrownley26
+279,Blue Collar Caucus,Chellie Pingree,ChelliePingree
+280,Blue Collar Caucus,Brian Higgins,RepBrianHiggins
+281,Blue Collar Caucus,Dan Kildee,RepDanKildee
+282,Blue Collar Caucus,Ruben Gallego,RepRubenGallego
+283,Blue Collar Caucus,Dina Titus,RepDinaTitus
+284,Blue Collar Caucus,Marcy Kaptur,RepMarcyKaptur
+285,Blue Collar Caucus,John Yarmuth,RepJohnYarmuth
+286,Blue Collar Caucus,Rick Nolan,USRepRickNolan
+287,Blue Collar Caucus,Cheri Bustos,RepCheri
+288,Blue Collar Caucus,Vicente Gonzalez,RepGonzalez
+289,Blue Collar Caucus,John Garamendi,RepGaramendi
+290,Blue Collar Caucus,Brendan Boyle,RepBrendanBoyle
+291,Blue Collar Caucus,Tim Ryan,RepTimRyan
+292,Blue Collar Caucus,Brenda Lawrence,RepLawrence
+293,List of members of the Blue Dog Coalition,Jim Cooper,RepJimCooper
+294,List of members of the Blue Dog Coalition,Mike Thompson,RepThompson
+295,List of members of the Blue Dog Coalition,Brad Schneider,repschneider
+296,List of members of the Blue Dog Coalition,Jim Costa,RepJimCosta
+297,List of members of the Blue Dog Coalition,Kyrsten Sinema,RepSinema
+298,List of members of the Blue Dog Coalition,Cheri Bustos,RepCheri
+299,List of members of the Blue Dog Coalition,Charlie Crist,repcharliecrist
+300,List of members of the Blue Dog Coalition,Tom O'Halleran,repohalleran
+301,List of members of the Blue Dog Coalition,Henry Cuellar,RepCuellar
+302,List of members of the Blue Dog Coalition,Stephanie Murphy,RepStephMurphy
+303,List of members of the Blue Dog Coalition,Kurt Schrader,RepSchrader
+304,List of members of the Blue Dog Coalition,Josh Gottheimer,RepJoshG
+305,List of members of the Blue Dog Coalition,David Scott,RepDavidScott
+306,New Democrat Coalition,Lisa Blunt Rochester,RepBRochester
+307,New Democrat Coalition,Ann McLane Kuster,RepAnnieKuster
+308,New Democrat Coalition,Jared Polis,JaredPolis
+309,New Democrat Coalition,Salud Carbajal,RepCarbajal
+310,New Democrat Coalition,Tom O'Halleran,repohalleran
+311,New Democrat Coalition,Eliot L. Engel,RepEliotEngel
+312,New Democrat Coalition,Val Demings,RepValDemings
+313,New Democrat Coalition,Ami Bera,RepBera
+314,New Democrat Coalition,Bill Foster,RepBillFoster
+315,New Democrat Coalition,Jim Cooper,RepJimCooper
+316,New Democrat Coalition,Mike Quigley,RepMikeQuigley
+317,New Democrat Coalition,Jim Himes,JAHimes
+318,New Democrat Coalition,Rick Larsen,RepRickLarsen
+319,New Democrat Coalition,Beto O'Rourke,RepBetoORourke
+320,New Democrat Coalition,Norma Torres,NormaJTorres
+321,New Democrat Coalition,Bill Pascrell,BillPascrell
+322,New Democrat Coalition,Kathleen Rice,RepKathleenRice
+323,New Democrat Coalition,Derek Kilmer,RepDerekKilmer
+324,New Democrat Coalition,Colleen Hanabusa,RepHanabusa
+325,New Democrat Coalition,Ruben Kihuen,RepKihuen
+326,New Democrat Coalition,Kurt Schrader,RepSchrader
+327,New Democrat Coalition,Ed Perlmutter,RepPerlmutter
+328,New Democrat Coalition,Josh Gottheimer,RepJoshG
+329,New Democrat Coalition,Stacey Plaskett,staceyplaskett
+330,New Democrat Coalition,Mike Thompson,RepThompson
+331,New Democrat Coalition,Joe Courtney,RepJoeCourtney
+332,New Democrat Coalition,Brad Schneider,repschneider
+333,New Democrat Coalition,Seth Moulton,teammoulton
+334,New Democrat Coalition,Sean Patrick Maloney,RepSeanMaloney
+335,New Democrat Coalition,Henry Cuellar,RepCuellar
+336,New Democrat Coalition,Charlie Crist,repcharliecrist
+337,New Democrat Coalition,André Carson,RepAndreCarson
+338,New Democrat Coalition,Julia Brownley,JuliaBrownley26
+339,New Democrat Coalition,Denny Heck,RepDennyHeck
+340,New Democrat Coalition,Darren Soto,RepDarrenSoto
+341,New Democrat Coalition,Debbie Wasserman Schultz,RepDWStweets
+342,New Democrat Coalition,Terri Sewell,RepTerriSewell
+343,New Democrat Coalition,John Delaney,RepJohnDelaney
+344,New Democrat Coalition,Ron Kind,RepRonKind
+345,New Democrat Coalition,Bill Keating,USRepKeating
+346,New Democrat Coalition,Raja Krishnamoorthi,congressmanraja
+347,New Democrat Coalition,Elizabeth Esty,RepEsty
+348,New Democrat Coalition,Cedric Richmond,RepRichmond
+349,New Democrat Coalition,Juan Vargas,RepJuanVargas
+350,New Democrat Coalition,Jim Costa,RepJimCosta
+351,New Democrat Coalition,Stephanie Murphy,RepStephMurphy
+352,New Democrat Coalition,Kyrsten Sinema,RepSinema
+353,New Democrat Coalition,Cheri Bustos,RepCheri
+354,New Democrat Coalition,Adam Smith,RepAdamSmith
+355,New Democrat Coalition,Pete Aguilar,reppeteaguilar
+356,New Democrat Coalition,David Scott,RepDavidScott
+357,New Democrat Coalition,Joseph Crowley,RepJoeCrowley
+358,Congressional Progressive Caucus,Keith Ellison,KeithEllison
+359,Congressional Progressive Caucus,Lisa Blunt Rochester,RepBRochester
+360,Congressional Progressive Caucus,Sheila Jackson Lee,JacksonLeeTX18
+361,Congressional Progressive Caucus,Mark Pocan,RepMarkPocan
+362,Congressional Progressive Caucus,Jared Polis,JaredPolis
+363,Congressional Progressive Caucus,Dave Loebsack,DaveLoebsack
+364,Congressional Progressive Caucus,Hank Johnson,RepHankJohnson
+365,Congressional Progressive Caucus,Alma Adams,RepAdams
+366,Congressional Progressive Caucus,Katherine Clark,RepKClark
+367,Congressional Progressive Caucus,Mark Takano,RepMarkTakano
+368,Congressional Progressive Caucus,Dwight Evans,RepDwightEvans
+369,Congressional Progressive Caucus,Barbara Lee,RepBarbaraLee
+370,Congressional Progressive Caucus,Jamie Raskin,repraskin
+371,Congressional Progressive Caucus,Val Demings,RepValDemings
+372,Congressional Progressive Caucus,Mark DeSaulnier,RepDeSaulnier
+373,Congressional Progressive Caucus,Eddie Bernice Johnson,RepEBJ
+374,Congressional Progressive Caucus,Matt Cartwright,RepCartwright
+375,Congressional Progressive Caucus,Alan Lowenthal,RepLowenthal
+376,Congressional Progressive Caucus,Debbie Dingell,RepDebDingell
+377,Congressional Progressive Caucus,Carol Shea-Porter,repsheaporter
+378,Congressional Progressive Caucus,Gwen Moore,RepGwenMoore
+379,Congressional Progressive Caucus,Jim McGovern,RepMcGovern
+380,Congressional Progressive Caucus,Nancy Pelosi,NancyPelosi
+381,Congressional Progressive Caucus,Hakeem Jeffries,RepJeffries
+382,Congressional Progressive Caucus,Bonnie Watson Coleman,RepBonnie
+383,Congressional Progressive Caucus,Steve Cohen,RepCohen
+384,Congressional Progressive Caucus,Ruben Kihuen,RepKihuen
+385,Congressional Progressive Caucus,Ted Lieu,RepTedLieu
+386,Congressional Progressive Caucus,Frederica Wilson,RepWilson
+387,Congressional Progressive Caucus,Jared Huffman,RepHuffman
+388,Congressional Progressive Caucus,Pramila Jayapal,RepJayapal
+389,Congressional Progressive Caucus,Nanette Barragán,RepBarragan
+390,Congressional Progressive Caucus,Frank Pallone,FrankPallone
+391,Congressional Progressive Caucus,Lucille Roybal-Allard,RepRoybalAllard
+392,Congressional Progressive Caucus,David Cicilline,RepCicilline
+393,Congressional Progressive Caucus,Jan Schakowsky,JanSchakowsky
+394,Congressional Progressive Caucus,Zoe Lofgren,RepZoeLofgren
+395,Congressional Progressive Caucus,Tulsi Gabbard,TulsiPress
+396,Congressional Progressive Caucus,Bennie Thompson,BennieGThompson
+397,Congressional Progressive Caucus,Adriano Espaillat,RepEspaillat
+398,Congressional Progressive Caucus,John Lewis,RepJohnLewis
+399,Congressional Progressive Caucus,Eleanor Holmes Norton,EleanorNorton
+400,Congressional Progressive Caucus,André Carson,RepAndreCarson
+401,Congressional Progressive Caucus,Rosa DeLauro,RosaDeLauro
+402,Congressional Progressive Caucus,Jerrold Nadler,RepJerryNadler
+403,Congressional Progressive Caucus,Chellie Pingree,ChelliePingree
+404,Congressional Progressive Caucus,Darren Soto,RepDarrenSoto
+405,Congressional Progressive Caucus,Judy Chu,RepJudyChu
+406,Congressional Progressive Caucus,Ro Khanna,RepRoKhanna
+407,Congressional Progressive Caucus,Ruben Gallego,RepRubenGallego
+408,Congressional Progressive Caucus,Maxine Waters,MaxineWaters
+409,Congressional Progressive Caucus,Jimmy Gomez,RepJimmyGomez
+410,Congressional Progressive Caucus,John Yarmuth,RepJohnYarmuth
+411,Congressional Progressive Caucus,Rick Nolan,USRepRickNolan
+412,Congressional Progressive Caucus,Lois Frankel,RepLoisFrankel
+413,Congressional Progressive Caucus,Lloyd Doggett,RepLloydDoggett
+414,Congressional Progressive Caucus,Karen Bass,RepKarenBass
+415,Congressional Progressive Caucus,Peter Welch,PeterWelch
+416,Congressional Progressive Caucus,Suzanne Bonamici,RepBonamici
+417,Congressional Progressive Caucus,Adam Smith,RepAdamSmith
+418,Congressional Progressive Caucus,Brenda Lawrence,RepLawrence
