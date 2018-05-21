@@ -7,8 +7,8 @@
       <attribute id="2" title="voting_with_party_pct" type="double" />
     </attributes>
     <meta>
-      <creator>NetworkX 2.0</creator>
-      <lastmodified>20/05/2018</lastmodified>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>21/05/2018</lastmodified>
     </meta>
     <nodes>
       <node id="RepAbraham" label="RepAbraham">
