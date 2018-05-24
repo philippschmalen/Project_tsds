@@ -1,0 +1,25 @@
+status: 200
+content-type: application/json; charset=utf-8
+content-length: 187
+connection: keep-alive
+date: Mon, 14 May 2018 10:16:45 GMT
+x-amzn-requestid: e7d203f0-575f-11e8-8a6d-859ed5bc8b34
+access-control-allow-origin: *
+access-control-allow-headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
+x-amz-apigw-id: G3xCJFnAoAMFU4A=
+access-control-allow-methods: GET,OPTIONS
+x-amzn-trace-id: Root=1-5af9620d-e4431e3fd18130746b8ba93d
+x-cache: Miss from cloudfront
+via: 1.1 08c050a6afa1c190e2432df1b550110b.cloudfront.net (CloudFront)
+x-amz-cf-id: LW6vDxRrNgWwcG9pM88m_bFkuU8XT8lAsnsP-pm6cpzYkHEYHMLlsg==
+content-location: https://api.propublica.org/congress/v1/members/Scott DesJarlais.json
+
+{
+    "status": "ERROR",
+    "copyright": "Copyright (c) 2018 Pro Publica Inc. All Rights Reserved.",
+    "errors": [
+        {
+            "error": "Record not found" 
+        } 
+    ]
+}

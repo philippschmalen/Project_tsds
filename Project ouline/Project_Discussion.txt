@@ -1,0 +1,74 @@
+NOTES about project
+
+Link to the Overleaf doc
+https://www.overleaf.com/16351715whvnmqhqhmts#/62672185/
+
+
+Research Question
+
+
+Data
+Twitter friendship links
+Congress caucus (interest groups)
+voting behavior
+voting districts
+
+
+Methods used:
+1) Networks
+	Louvian Similarity
+	Degree centrality
+	Jaccard similarity: Shows how similar two sample sets are, ranges from 0-1 with 1 being totally similar 
+	Adamic-Adar coefficient
+
+2) Geopandas
+	construct distance measure with geopandas: Person A, B's distance of voting districts 
+
+3) Webscraping
+
+
+Analysis
+Put in every figure first, select those with the main message and analyse them 
+
+
+Phil 
+- Methods: describe Congress API, Caucus scraping, Louvian similarity
+- geopandas distances: twitter id, Person A-B voting district distance 
+- research question: 
+- literature review: 
+
+
+
+
+
+
+
+
+
+OLD STUFF OLD STUFF OLD STUFF OLD STUFF OLD STUFF OLD STUFF OLD STUFF OLD STUFF 
+
+Discussion
+- date of being friends on Twitter
+- what would have been done ideally
+- polarization
+- using same hashtags 
+- agreement vote, number of connections: statistics on network 
+- facebook data: ideally analyze tags, number of likes (classify as friendly or attack)
+- Polarization, ML: Predict party? Those who are not clear-cut get an ambiguous score
+- neural network: voting behavior --> party; How hard is it to predict this? Polarization 
+- is there any development over time?
+
+
+
+Possible research questions
+Do reps/dems who are more linked on twitter with the opposite party also vote more likely against their party lines?
+- what are the groupings/networks in the congress? 
+- voting behavior: Do representatves from the same region vote similarly? 
+- how did the network develop over time?
+
+Random Ideas
+Most interesting: Change in voting behavior over and polarization time
+How voting behavior differed from party lines over time. 
+How would a hypothetical Twitter network look like in 1993 based on voting behavior and party?
+	Excercies: Construct a Twitter network d
+	Agreement of politicians on each bill --> similarity --> network based on voting
