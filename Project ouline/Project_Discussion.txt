@@ -8,6 +8,7 @@ Research Question
 
 
 Data
+Descriptives: Congress and Twitter usage
 Twitter friendship links
 Congress caucus (interest groups)
 voting behavior
@@ -32,8 +33,7 @@ Put in every figure first, select those with the main message and analyse them
 
 
 Phil 
-- Methods: describe Congress API, Caucus scraping, Louvian similarity
-- geopandas distances: twitter id, Person A-B voting district distance 
+- Methods: Louvian similarity
 - research question: 
 - literature review: 
 
